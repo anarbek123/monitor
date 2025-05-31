@@ -1,0 +1,4241 @@
+{
+  "files": {
+    "https://court.aifc.kz/uploads/Case%20No.%201%20of%202019%20-%20Aurora%20AG%20Limited%20v%20Star%20Asian%20Mining%20Company%20LLP_eng.pdf": {
+      "first_seen": "2025-05-31T09:43:14.321761",
+      "last_seen": "2025-05-31T09:43:14.321761",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T13:07:42.369547"
+    },
+    "https://court.aifc.kz/files/legals/12/file3/ab8bcf8o-ca.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T13:08:16.615714"
+    },
+    "https://court.aifc.kz/files/legals/12/file2/ab8bcf8o-07.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T13:09:07.983186"
+    },
+    "https://court.aifc.kz/files/legals/12/file/ab8bcf8o-0-3.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T13:17:02.038677"
+    },
+    "https://court.aifc.kz/files/legals/529/file3/_-ca.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:45:59.282632"
+    },
+    "https://court.aifc.kz/files/legals/529/file2/_-07.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:46:10.619168"
+    },
+    "https://court.aifc.kz/files/legals/529/file/_0-3.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:46:25.856267"
+    },
+    "https://court.aifc.kz/files/legals/8/file3/u1500000160.24-06-2022.rus.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:46:38.883460"
+    },
+    "https://court.aifc.kz/files/legals/8/file2/u1500000160.24-06-2022.kaz-1.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:46:53.094244"
+    },
+    "https://court.aifc.kz/files/legals/410/file3/2.-b-c-bc-0-30-2-a-87ab.-0-1.7.2021-4-o-a09b0.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:47:09.513390"
+    },
+    "https://court.aifc.kz/files/legals/410/file/structure-of-aifc-bodies-with-amendments-as-of-1.7.2021-4-o-a09b0.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:47:23.788913"
+    },
+    "https://court.aifc.kz/files/legals/409/file3/the-structure-of-the-bodies-of-the-astana-international-financial-centre-rus.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:47:41.500965"
+    },
+    "https://court.aifc.kz/files/legals/409/file/the-structure-of-the-bodies-of-the-astana-international-financial-centre-eng.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:47:52.186157"
+    },
+    "https://court.aifc.kz/files/legals/207/file/1.-aifc-regulations-on-aifc-acts-2017_initial.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:48:09.863633"
+    },
+    "https://court.aifc.kz/files/legals/206/file/aifc-regulations-on-aifc-acts-2017_with-amendments-as-of-11-january-2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:48:24.437550"
+    },
+    "https://court.aifc.kz/files/legals/208/file/1.-aifc-regulations-on-aifc-acts-2017_with-amendments-as-of-12-june-2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:48:36.399579"
+    },
+    "https://court.aifc.kz/files/legals/49/file/comreg_v8_01.01.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:48:57.912104"
+    },
+    "https://court.aifc.kz/files/legals/106/file/comreg_v1_2_20.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:49:08.511832"
+    },
+    "https://court.aifc.kz/files/legals/107/file/comreg_v2_2_18.08.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:49:21.474494"
+    },
+    "https://court.aifc.kz/files/legals/108/file/comreg_v3_2_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:49:37.902138"
+    },
+    "https://court.aifc.kz/files/legals/109/file/comreg_v4_2_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:49:48.930954"
+    },
+    "https://court.aifc.kz/files/legals/424/file/2.-aifc-companies-regulations-no.-2-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:50:00.956099"
+    },
+    "https://court.aifc.kz/files/legals/436/file/companies-regulations-previous.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:50:11.947505"
+    },
+    "https://court.aifc.kz/files/legals/237/file/2.-aifc-companies-rules-no.gr0004-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:50:26.104462"
+    },
+    "https://court.aifc.kz/files/legals/238/file/cor_v1_gr0004_29.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:50:45.539441"
+    },
+    "https://court.aifc.kz/files/legals/435/file/cor_v4_gr0004_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:51:05.031661"
+    },
+    "https://court.aifc.kz/files/legals/115/file/cor_v3_gr0004_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:51:17.047695"
+    },
+    "https://court.aifc.kz/files/legals/114/file/cor_v2_gr0004_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:51:32.150023"
+    },
+    "https://court.aifc.kz/files/legals/47/file/2.-aifc-special-purpose-company-rules-no.2-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:51:48.367017"
+    },
+    "https://court.aifc.kz/files/legals/111/file/spcor_v1_gr0001_10.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:51:58.469529"
+    },
+    "https://court.aifc.kz/files/legals/112/file/spcor_v3_gr0001_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:52:09.940848"
+    },
+    "https://court.aifc.kz/files/legals/533/file/comreg_v8_01.01.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T13:38:00.827393"
+    },
+    "https://court.aifc.kz/files/legals/247/file/spcor_v2_gr0001_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:52:40.618558"
+    },
+    "https://court.aifc.kz/files/legals/484/file/2.-aifc-contract-regulations-2017_new-design_with-amendments-no.1-dated-may-2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:52:53.327226"
+    },
+    "https://court.aifc.kz/files/legals/483/file/aifc-contract-regulations-2017_with-amendments-of-10-june-2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:53:06.259554"
+    },
+    "https://court.aifc.kz/files/legals/183/file/4.-aifc-general-partnership-regulations-no.5-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:53:14.583938"
+    },
+    "https://court.aifc.kz/files/legals/184/file/gpreg_v1_5_20.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:53:26.006452"
+    },
+    "https://court.aifc.kz/files/legals/186/file/gpreg_v2_5_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:53:39.439742"
+    },
+    "https://court.aifc.kz/files/legals/188/file/gpreg_v3_5_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:53:52.197980"
+    },
+    "https://court.aifc.kz/files/legals/438/file/gpreg_v4_5_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:54:08.855728"
+    },
+    "https://court.aifc.kz/files/legals/163/file/gprules_v5-01.01.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:54:22.571977"
+    },
+    "https://court.aifc.kz/files/legals/164/file/gpr_v1_gr0002_10.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:54:37.685041"
+    },
+    "https://court.aifc.kz/files/legals/165/file/gpr_v2_gr0002_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:54:53.145706"
+    },
+    "https://court.aifc.kz/files/legals/437/file/gpr_v3_gr0002_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:55:05.516678"
+    },
+    "https://court.aifc.kz/files/legals/507/file/4.-aifc-general-partnership-rules-no.gr0002-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:55:19.095324"
+    },
+    "https://court.aifc.kz/files/legals/536/file/gprules_v5-01.01.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T13:38:45.332822"
+    },
+    "https://court.aifc.kz/files/legals/178/file/lpreg_v1_12_20.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:55:53.942947"
+    },
+    "https://court.aifc.kz/files/legals/180/file/lpreg_v1_12_20.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T13:39:39.828520"
+    },
+    "https://court.aifc.kz/files/legals/181/file/lpreg_v2_12_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:56:12.338161"
+    },
+    "https://court.aifc.kz/files/legals/182/file/lpreg_v3_12_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:56:24.454424"
+    },
+    "https://court.aifc.kz/files/legals/440/file/lpreg_v4_12_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:56:43.851992"
+    },
+    "https://court.aifc.kz/files/legals/509/file/5.-aifc-limited-partnership-regulations-no.12-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:57:00.693834"
+    },
+    "https://court.aifc.kz/files/legals/173/file/5.-aifc-limited-partnership-rules-no.gr0005-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:57:19.760091"
+    },
+    "https://court.aifc.kz/files/legals/174/file/lpr_v1_gr0005_29.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:57:38.658381"
+    },
+    "https://court.aifc.kz/files/legals/176/file/lpr_v2_gr0005_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:57:48.886888"
+    },
+    "https://court.aifc.kz/files/legals/439/file/lpr_v3_gr0005_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:58:04.214711"
+    },
+    "https://court.aifc.kz/files/legals/530/file/lpreg_v6-01.01.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:58:17.057591"
+    },
+    "https://court.aifc.kz/files/legals/538/file/lpr_v5-01.06.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:58:34.390401"
+    },
+    "https://court.aifc.kz/files/legals/539/file/lpreg_v7-01.06.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:58:44.563122"
+    },
+    "https://court.aifc.kz/files/legals/189/file/6.-aifc-limited-liability-partnership-regulations-no.13-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:58:54.390437"
+    },
+    "https://court.aifc.kz/files/legals/190/file/llreg_v1_13_20.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:59:07.977767"
+    },
+    "https://court.aifc.kz/files/legals/193/file/llpreg_v2_13_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:59:20.090229"
+    },
+    "https://court.aifc.kz/files/legals/195/file/llpreg_v3_13_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:59:34.540968"
+    },
+    "https://court.aifc.kz/files/legals/442/file/llpreg_v4_13_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T09:59:51.184544"
+    },
+    "https://court.aifc.kz/files/legals/196/file/llprules_v5-01.01.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:00:03.165811"
+    },
+    "https://court.aifc.kz/files/legals/197/file3/llr_v1_gr0006_29.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:00:17.122069"
+    },
+    "https://court.aifc.kz/files/legals/197/file2/llr_v1_gr0006_29.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T13:42:39.173934"
+    },
+    "https://court.aifc.kz/files/legals/197/file/llr_v1_gr0006_29.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T13:43:28.990778"
+    },
+    "https://court.aifc.kz/files/legals/198/file/llpr_v2_gr0006_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:00:46.789862"
+    },
+    "https://court.aifc.kz/files/legals/441/file/llpr_v3_gr0006_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:01:03.096793"
+    },
+    "https://court.aifc.kz/files/legals/510/file/6.-aifc-limited-liability-partnership-rules-no.gr0006-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:01:12.751152"
+    },
+    "https://court.aifc.kz/files/legals/537/file/llprules_v5-01.01.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T13:44:57.298267"
+    },
+    "https://court.aifc.kz/files/legals/39/file/7.-aifc-non-profit-incorporated-organisations-regulations-no.11-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:01:47.057799"
+    },
+    "https://court.aifc.kz/files/legals/211/file/npioreg_v1_11_20.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:02:02.959024"
+    },
+    "https://court.aifc.kz/files/legals/212/file/npioreg_v2_11_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:02:19.607604"
+    },
+    "https://court.aifc.kz/files/legals/215/file/npioreg_v3_11_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:02:31.964818"
+    },
+    "https://court.aifc.kz/files/legals/444/file/npioreg_v4_11_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:02:48.689449"
+    },
+    "https://court.aifc.kz/files/legals/216/file/7.-aifc-non-profit-incorporated-organisations-rules-no.gr0007-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:03:02.171569"
+    },
+    "https://court.aifc.kz/files/legals/217/file/npior_v1_gr0007_29.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:03:12.067868"
+    },
+    "https://court.aifc.kz/files/legals/218/file/npior_v2_gr0007_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:03:24.859251"
+    },
+    "https://court.aifc.kz/files/legals/234/file/fr_v4_01.01.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:03:33.210472"
+    },
+    "https://court.aifc.kz/files/legals/235/file/fr_v1_24_26.03.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:03:44.821046"
+    },
+    "https://court.aifc.kz/files/legals/443/file/fr_v2_24_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:03:56.434076"
+    },
+    "https://court.aifc.kz/files/legals/508/file/8.-aifc-foundations-regulations-no.-24-of-2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:04:13.268038"
+    },
+    "https://court.aifc.kz/files/legals/535/file/fr_v4_01.01.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:04:26.628512"
+    },
+    "https://court.aifc.kz/files/legals/20/file/9.-aifc-trust-regulations-no.-31-of-2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:04:37.330840"
+    },
+    "https://court.aifc.kz/files/legals/455/file/10.-aifc-legal-services-regulations-no.-41-of-2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:04:50.887645"
+    },
+    "https://court.aifc.kz/files/legals/495/file/lsb-rule-no.1_guidance-for-registration-of-legal-advisers.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:05:08.919437"
+    },
+    "https://court.aifc.kz/files/legals/462/file/8-65-85-3.1.-aifc-lsb-registration-guidance_with-amendments-as-of-24.11.22.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:05:26.627668"
+    },
+    "https://court.aifc.kz/files/legals/463/file3/application-form-for-la_feb-2023.docx": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:05:37.807725"
+    },
+    "https://court.aifc.kz/files/legals/463/file2/application-form-for-la_feb-2023.docx": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:05:50.475733"
+    },
+    "https://court.aifc.kz/files/legals/464/file/lsb-rule-no.2_-aifc-practising-fees-rules.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:06:04.484147"
+    },
+    "https://court.aifc.kz/files/legals/465/file/lsb-rule-no.3_list-of-recognised-professional-bodies.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:06:21.329688"
+    },
+    "https://court.aifc.kz/files/legals/466/file/lsb-rule-no.-4_aifc-legal-services-code.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:06:30.617207"
+    },
+    "https://court.aifc.kz/files/legals/467/file/lsb-rule-no.5_clpd-rules.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:06:47.843753"
+    },
+    "https://court.aifc.kz/files/legals/203/file/6aifci-1.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:07:04.738013"
+    },
+    "https://court.aifc.kz/files/legals/485/file/aifc-implied-terms-in-contract-and-unfair-terms-regulations_with-amendments-of-10-june-2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:07:14.908545"
+    },
+    "https://court.aifc.kz/files/legals/210/file/12.-regulations-on-damages-and-remedies-no.17-of-2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:07:25.295712"
+    },
+    "https://court.aifc.kz/files/legals/227/file/13.-aifc-regulations-on-obligations-no.16-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:07:37.660498"
+    },
+    "https://court.aifc.kz/files/legals/126/file3/21-cb25-645-88-53-o4-0_rus-consolidated-as-of-june-2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:07:48.947076"
+    },
+    "https://court.aifc.kz/files/legals/126/file2/21-cb25-645-88-53-o4-0-kaz-consolidated-as-of-june-2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:08:00.353278"
+    },
+    "https://court.aifc.kz/files/legals/126/file/joint-order-on-interim-procedure-consolidated-as-of-june-2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:08:11.128076"
+    },
+    "https://court.aifc.kz/files/legals/220/file/4.-aifc-emploment-regulations-2017_new-design.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:08:27.724616"
+    },
+    "https://court.aifc.kz/files/legals/219/file/4.-aifc-employment-regulations-2017_with-amendments-as-of-22-february-2019_new-design.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:08:40.526379"
+    },
+    "https://court.aifc.kz/files/legals/221/file/4.-aifc-employment-regulations-2017_with-amendments-as-of-9-july-2019_new-design.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:08:51.075035"
+    },
+    "https://court.aifc.kz/files/legals/380/file/4.-aifc-employment-regulations-2017_with-amendments-as-of-15-january-2021.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:09:06.737908"
+    },
+    "https://court.aifc.kz/files/legals/252/file/14.-aifc-qualifications-necessary-for-employment-in-the-aifc-no.-gr0009-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:09:14.163938"
+    },
+    "https://court.aifc.kz/files/legals/27/file/ireg_v2_14_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:09:28.707708"
+    },
+    "https://court.aifc.kz/files/legals/153/file/ir_v1_gr0008_29.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:09:48.767797"
+    },
+    "https://court.aifc.kz/files/legals/199/file/ireg_v1_14_20.12.17.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:10:07.398838"
+    },
+    "https://court.aifc.kz/files/legals/200/file/ir_v2_gr0008_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:10:24.070831"
+    },
+    "https://court.aifc.kz/files/legals/201/file/ir_v1_gr0008_29.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:10:43.230014"
+    },
+    "https://court.aifc.kz/files/legals/202/file/pcr_v1_afsa-l-pc-2019-0002_14.02.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:10:52.151198"
+    },
+    "https://court.aifc.kz/files/legals/320/file/15.-afsa-manual-going-to-liquidation-within-the-aifc-insolvency-rules-and-regulations.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:11:11.291287"
+    },
+    "https://court.aifc.kz/files/legals/554/file/16.-aifc-netting-regulations-no.8-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:11:23.422150"
+    },
+    "https://court.aifc.kz/files/legals/204/file/8.-aifc-netting-regulations-2017_v2_01.07.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:11:38.041856"
+    },
+    "https://court.aifc.kz/files/legals/191/file/17.-aifc-data-protection-regulations-no.-10-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:11:48.258569"
+    },
+    "https://court.aifc.kz/files/legals/192/file/17.-aifc-data-protection-rules-no.1-of-2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:11:59.476579"
+    },
+    "https://court.aifc.kz/files/legals/205/file/18.-aifc-payment-system-settlement-finality-regulations-no.9-of-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:12:15.488347"
+    },
+    "https://court.aifc.kz/files/legals/639/file/15-aifc-personal-property-regulations.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:12:24.748926"
+    },
+    "https://court.aifc.kz/files/legals/209/file/aifc-personal-property-regulations-no.15-dated-2017-with-amendments-dated-20-may-2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:12:42.683425"
+    },
+    "https://court.aifc.kz/files/legals/640/file/7-aifc-security-regulations.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:12:54.214038"
+    },
+    "https://court.aifc.kz/files/legals/214/file/aifc-security-regulaitons-no.-7-dated-2017-with-amendments-dated-20-may-2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:13:08.010130"
+    },
+    "https://court.aifc.kz/files/legals/213/file/20.-aifc-security-rules-no.-3-of-2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:13:20.423895"
+    },
+    "https://court.aifc.kz/files/legals/154/file/21.-aifc-common-reporting-standard-regulations-no.-26-of-2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:13:33.233797"
+    },
+    "https://court.aifc.kz/files/legals/242/file/21.-aifc-common-reporting-standard-rules-afsa-l-pc-2019-0006-of-2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:13:46.766868"
+    },
+    "https://court.aifc.kz/files/legals/482/file3/22.-aifc-regulations-on-aifc-investment-tax-residency-programme-rus.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:14:00.092071"
+    },
+    "https://court.aifc.kz/files/legals/482/file2/22.-aifc-regulations-on-aifc-investment-tax-residency-programme-kaz.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:14:07.624230"
+    },
+    "https://court.aifc.kz/files/legals/482/file/22.-aifc-regulations-on-aifc-investment-tax-residency-programme.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:14:20.879287"
+    },
+    "https://court.aifc.kz/files/legals/557/file/itrp-guidance.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:14:34.720502"
+    },
+    "https://court.aifc.kz/files/legals/33/file/aifc-rules-on-sovereign-bonds.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:14:49.874469"
+    },
+    "https://court.aifc.kz/files/legals/67/file/fsfr_v8_01.01.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:15:06.588044"
+    },
+    "https://court.aifc.kz/files/legals/78/file/fsfr_v2_18_11.07.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:15:18.452846"
+    },
+    "https://court.aifc.kz/files/legals/79/file/fsfr_v3_18_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:15:31.887220"
+    },
+    "https://court.aifc.kz/files/legals/245/file/fsfr_v4_18_05.05.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:15:50.645323"
+    },
+    "https://court.aifc.kz/files/legals/341/file/fsfr_v6_18_11.05.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:16:06.122747"
+    },
+    "https://court.aifc.kz/files/legals/511/file/fsfr_v7_18_23.07.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:16:20.125857"
+    },
+    "https://court.aifc.kz/files/legals/520/file/financial-services-framework-regulations.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:16:34.466275"
+    },
+    "https://court.aifc.kz/files/legals/553/file/fsfr_v9-01.07.2023-with-updated-content.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:16:54.289024"
+    },
+    "https://court.aifc.kz/files/legals/558/file/fsfr_v10-01.08.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:17:10.580896"
+    },
+    "https://court.aifc.kz/files/legals/584/file/fsfr_a10_01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:17:23.886555"
+    },
+    "https://court.aifc.kz/files/legals/609/file/fsfr_a10.2_01.01.2024-sto.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:17:40.700433"
+    },
+    "https://court.aifc.kz/files/legals/619/file/fsfr_v11-01.01.2024-sto_gk_as.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:17:56.128328"
+    },
+    "https://court.aifc.kz/files/legals/357/file/sr_v1_afsa-l-pc-2020-0001_18.10.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:18:08.854100"
+    },
+    "https://court.aifc.kz/files/legals/65/file/gen-_v14_10.12.2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:18:20.757531"
+    },
+    "https://court.aifc.kz/files/legals/80/file/gen_v1_fr0001_17.10.17.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:18:36.611259"
+    },
+    "https://court.aifc.kz/files/legals/81/file/gen_v3_fr0001_30.07.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:18:51.153360"
+    },
+    "https://court.aifc.kz/files/legals/82/file/gen_v4_fr0001_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:19:07.075502"
+    },
+    "https://court.aifc.kz/files/legals/83/file/gen-_v5_fr0001_05.05.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:19:18.991882"
+    },
+    "https://court.aifc.kz/files/legals/84/file/gen-_v6_fr0001_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:19:35.466232"
+    },
+    "https://court.aifc.kz/files/legals/85/file/gen-_v7_fr0001_13.10.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:19:46.446646"
+    },
+    "https://court.aifc.kz/files/legals/335/file/gen-_v8_fr0001_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:19:57.015397"
+    },
+    "https://court.aifc.kz/files/legals/375/file/gen-_v9_fr0001_23.07.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:20:07.438412"
+    },
+    "https://court.aifc.kz/files/legals/423/file/gen-_v10_fr0001_13.12.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:20:20.576457"
+    },
+    "https://court.aifc.kz/files/legals/430/file/gen-_v11_fr0001_12.12.2021.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:20:38.163194"
+    },
+    "https://court.aifc.kz/files/legals/469/file/gen-_v12_fr0001_01.01.2022-commencement.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:20:54.202679"
+    },
+    "https://court.aifc.kz/files/legals/263/file/afsa-guidance-on-providing-consultancy-services-in-the-aifc.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:21:06.595638"
+    },
+    "https://court.aifc.kz/files/legals/468/file/regulatory-guidance-on-fitness-and-propriety-for-publishing.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:21:20.233714"
+    },
+    "https://court.aifc.kz/files/legals/519/file/gen-_v13_fr0001_01.07.2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:21:38.523252"
+    },
+    "https://court.aifc.kz/files/legals/531/file/gen-_v14_10.12.2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:21:53.406162"
+    },
+    "https://court.aifc.kz/files/legals/555/file/gen-_v15_01.07.2023-with-rar-additions-27-april-2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:22:10.299461"
+    },
+    "https://court.aifc.kz/files/legals/562/file/gen-_v16_01.08.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:22:23.406025"
+    },
+    "https://court.aifc.kz/files/legals/585/file/gen_a16_01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:22:31.878182"
+    },
+    "https://court.aifc.kz/files/legals/621/file/gen-_v16_01.01.2024-as.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:22:46.763119"
+    },
+    "https://court.aifc.kz/files/legals/66/file/rep_v2_fr0006_13.12.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:22:56.523810"
+    },
+    "https://court.aifc.kz/files/legals/376/file/rep_v1_fr0006_10.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:23:10.482025"
+    },
+    "https://court.aifc.kz/files/legals/63/file/cob_v10_fr0005_12.12.2021.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:23:20.792462"
+    },
+    "https://court.aifc.kz/files/legals/86/file/cob_v1_fr0005_10.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:23:29.237621"
+    },
+    "https://court.aifc.kz/files/legals/87/file/cob_v2_fr0005_30.07.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:23:42.045064"
+    },
+    "https://court.aifc.kz/files/legals/88/file/cob_v3_fr0005_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:23:53.524124"
+    },
+    "https://court.aifc.kz/files/legals/89/file/cob_v4_fr0005_05.05.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:24:06.101372"
+    },
+    "https://court.aifc.kz/files/legals/90/file/cob_v5_fr0005_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:24:20.171941"
+    },
+    "https://court.aifc.kz/files/legals/91/file/cob_v6_fr0005_13.10.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:24:28.999286"
+    },
+    "https://court.aifc.kz/files/legals/338/file/cob_v7_fr0005_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:24:44.566035"
+    },
+    "https://court.aifc.kz/files/legals/420/file/cob_v9_fr0005_26.10.2021-final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:24:59.029102"
+    },
+    "https://court.aifc.kz/files/legals/587/file/cob_a11_as-of-01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:25:06.729976"
+    },
+    "https://court.aifc.kz/files/legals/608/file/cob_a11.2_as-of-01.01.2024-sto.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:25:25.511448"
+    },
+    "https://court.aifc.kz/files/legals/616/file/cob_v12_fr0005_01.01.2024-sto_gk_as.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:25:37.233735"
+    },
+    "https://court.aifc.kz/files/legals/62/file/cis_v3_fr0009_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:25:54.078518"
+    },
+    "https://court.aifc.kz/files/legals/96/file/cis_v1_fr0009_10.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:26:11.346523"
+    },
+    "https://court.aifc.kz/files/legals/97/file/cis_v2_fr0009_05.05.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:26:27.948114"
+    },
+    "https://court.aifc.kz/files/legals/541/file/cis_v4_fr0009-01.06.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:26:43.788712"
+    },
+    "https://court.aifc.kz/files/legals/601/file/cis_a4-01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:26:53.854177"
+    },
+    "https://court.aifc.kz/files/legals/606/file/cis_a5-01.01.2024-sto.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:27:06.195653"
+    },
+    "https://court.aifc.kz/files/legals/618/file/cis_v5_fr0009-01.01.2024-sto-esg_gk.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:27:21.995365"
+    },
+    "https://court.aifc.kz/files/legals/648/file/cis_v6_fr0009-01.07.2024_as_mm.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:27:40.742615"
+    },
+    "https://court.aifc.kz/files/legals/59/file/mar_v8_fr0003_29.06.2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:27:58.996855"
+    },
+    "https://court.aifc.kz/files/legals/98/file/mar_v1_fr0003_17.10.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:28:16.087736"
+    },
+    "https://court.aifc.kz/files/legals/99/file/mar_v2_fr0003_04.07.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:28:30.736696"
+    },
+    "https://court.aifc.kz/files/legals/100/file/mar_v3_fr0003_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:28:44.763752"
+    },
+    "https://court.aifc.kz/files/legals/101/file/mar_v4_fr0003_14.02.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:28:56.274768"
+    },
+    "https://court.aifc.kz/files/legals/102/file/mar_v5_fr0003_05.05.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:29:08.289846"
+    },
+    "https://court.aifc.kz/files/legals/103/file/mar_v6_fr0003_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:29:21.480158"
+    },
+    "https://court.aifc.kz/files/legals/472/file/mar_v7_fr0003_28.06.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:29:38.066069"
+    },
+    "https://court.aifc.kz/files/legals/104/file/gpro-forma_v1_afsa-l-pc-2019-0007_26.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:29:52.674397"
+    },
+    "https://court.aifc.kz/files/legals/560/file/mar_v8_fr0003_01.08.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:30:01.622856"
+    },
+    "https://court.aifc.kz/files/legals/611/file/mar_a9_01.01.2023-sto.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:30:19.074914"
+    },
+    "https://court.aifc.kz/files/legals/614/file/mar_v10_fr0003_01.01.2023-sto_gk.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:30:33.716662"
+    },
+    "https://court.aifc.kz/files/legals/428/file/motf_v1_fr0054_12.12.2021.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:30:49.583541"
+    },
+    "https://court.aifc.kz/files/legals/105/file/recr_v2_fr0004_29.06.2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:31:02.486086"
+    },
+    "https://court.aifc.kz/files/legals/473/file/recr_v1_fr0004_27.08.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:31:13.931646"
+    },
+    "https://court.aifc.kz/files/legals/57/file/ami_v6_fr0002_23.11.2020-final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:31:23.935643"
+    },
+    "https://court.aifc.kz/files/legals/128/file/ami_v1_fr0002_17.10.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:31:38.345731"
+    },
+    "https://court.aifc.kz/files/legals/129/file/ami_v2_fr0002_04.07.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:31:51.838989"
+    },
+    "https://court.aifc.kz/files/legals/337/file/ami_v3_fr0002_05.05.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:32:02.086460"
+    },
+    "https://court.aifc.kz/files/legals/377/file/ami_v4_fr0002_23.07.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:32:11.371341"
+    },
+    "https://court.aifc.kz/files/legals/419/file/ami_v6_fr0002_23.11.2020-final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:32:23.741044"
+    },
+    "https://court.aifc.kz/files/legals/561/file/ami_v7_fr0002_27.07.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:32:38.199536"
+    },
+    "https://court.aifc.kz/files/legals/607/file/ami_a7.1_01.01.2024-sto.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:32:55.846865"
+    },
+    "https://court.aifc.kz/files/legals/617/file/ami_v8_fr0002_01.01.2024-sto_gk_as.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:33:09.833381"
+    },
+    "https://court.aifc.kz/files/legals/58/file/aml_v5_fr0008_12.12.2021-with-editorial-remarks.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:33:20.710226"
+    },
+    "https://court.aifc.kz/files/legals/158/file/aml_v1_fr0008_10.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:33:35.549529"
+    },
+    "https://court.aifc.kz/files/legals/159/file/aml_v2_fr0008_29.04.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:33:47.906639"
+    },
+    "https://court.aifc.kz/files/legals/427/file/aml_v4_fr0008_13.12.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:34:06.235801"
+    },
+    "https://court.aifc.kz/files/legals/378/file/aml_v3_fr0008_30.07.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:34:20.179902"
+    },
+    "https://court.aifc.kz/files/legals/321/file3/ca-pdf-for-publication-final-2021.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:34:35.491098"
+    },
+    "https://court.aifc.kz/files/legals/321/file2/kaz-pdf-for-publication-final-2021.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:34:49.032721"
+    },
+    "https://court.aifc.kz/files/legals/321/file/aml-guidance-eng-pdf-final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:35:07.114342"
+    },
+    "https://court.aifc.kz/files/legals/398/file3/aml-guidance-rus.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:35:17.548524"
+    },
+    "https://court.aifc.kz/files/legals/398/file2/aml-guidance-kaz.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:35:34.147682"
+    },
+    "https://court.aifc.kz/files/legals/398/file/aml-guidance-eng.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:35:48.101197"
+    },
+    "https://court.aifc.kz/files/legals/399/file3/cdd-ca-for-publication-pdf-final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:36:00.572682"
+    },
+    "https://court.aifc.kz/files/legals/399/file2/cdd-kaz-for-publication-pdf.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:36:16.514886"
+    },
+    "https://court.aifc.kz/files/legals/399/file/cdd-guidance-eng-for-publication-pdf-final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:36:31.237208"
+    },
+    "https://court.aifc.kz/files/legals/400/file3/list-ca-for-publication-pdf.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:36:48.159456"
+    },
+    "https://court.aifc.kz/files/legals/400/file2/list-kaz-for-publication-pdf.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:37:00.042255"
+    },
+    "https://court.aifc.kz/files/legals/400/file/list-eng-for-publication.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:37:17.260457"
+    },
+    "https://court.aifc.kz/files/legals/452/file/aifc-amlcft-practical-guidance_15-04-2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:37:35.270034"
+    },
+    "https://court.aifc.kz/files/legals/622/file/aml_v6_fr0008_01.01.2024_as.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:37:47.343214"
+    },
+    "https://court.aifc.kz/files/legals/55/file/fees-v14_01.01.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:37:57.181213"
+    },
+    "https://court.aifc.kz/files/legals/166/file/fees_v1_-fr0007_10.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:38:09.629139"
+    },
+    "https://court.aifc.kz/files/legals/167/file/fees_v2_-fr0007_03.02.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:38:26.149409"
+    },
+    "https://court.aifc.kz/files/legals/168/file/fees_v3_-fr0007_30.07.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:38:37.307213"
+    },
+    "https://court.aifc.kz/files/legals/169/file/fees_v4_-fr0007_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:38:54.594301"
+    },
+    "https://court.aifc.kz/files/legals/170/file/fees_v5_fr0007_05.05.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:39:11.727572"
+    },
+    "https://court.aifc.kz/files/legals/171/file/fees_v6_fr0007_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:39:23.160346"
+    },
+    "https://court.aifc.kz/files/legals/250/file/fees_v7_fr0007_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:39:41.238203"
+    },
+    "https://court.aifc.kz/files/legals/317/file/fees_v8_fr0007_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:39:56.889180"
+    },
+    "https://court.aifc.kz/files/legals/340/file/fees_v9_fr0007_11.05.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:40:19.292425"
+    },
+    "https://court.aifc.kz/files/legals/432/file/fees_v10_fr0007_23.07.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:40:32.554010"
+    },
+    "https://court.aifc.kz/files/legals/433/file/fees_v11-final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:40:44.599473"
+    },
+    "https://court.aifc.kz/files/legals/453/file/fees_v12-final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:41:05.326907"
+    },
+    "https://court.aifc.kz/files/legals/512/file/fees-v13-final-01may-2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:41:15.600017"
+    },
+    "https://court.aifc.kz/files/legals/514/file/fees-v13-final-01may-2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:41:35.830546"
+    },
+    "https://court.aifc.kz/files/legals/534/file/fees-v14_01.01.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:41:53.263464"
+    },
+    "https://court.aifc.kz/files/legals/586/file/fees_a14_as-of-01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:42:03.898071"
+    },
+    "https://court.aifc.kz/files/legals/602/file/fees_a14.2_as-of-01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:42:12.810692"
+    },
+    "https://court.aifc.kz/files/legals/620/file/fees-v15-01.01.2024_sa_as.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:42:22.137010"
+    },
+    "https://court.aifc.kz/files/legals/44/file/bbr_v5_10.12.2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:42:31.668592"
+    },
+    "https://court.aifc.kz/files/legals/249/file/bbr_v1_fr0023_04.07.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:42:47.182685"
+    },
+    "https://court.aifc.kz/files/legals/346/file/bbr_v2_fr0023_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:42:57.055746"
+    },
+    "https://court.aifc.kz/files/legals/422/file/bbr_v3_fr0023_28.06.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:43:15.715445"
+    },
+    "https://court.aifc.kz/files/legals/148/file/bpg_v1_afsa-l-gb-2019-0001_28.01.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:43:26.105899"
+    },
+    "https://court.aifc.kz/files/legals/518/file/bbr_v4_fr0023_12.12.2021.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:43:36.532227"
+    },
+    "https://court.aifc.kz/files/legals/532/file/bbr_v5_10.12.2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:43:48.878337"
+    },
+    "https://court.aifc.kz/files/legals/92/file/pru.inv_v4_fr0011_12.12.2021.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:44:05.104456"
+    },
+    "https://court.aifc.kz/files/legals/93/file/pru-inv_v1_fr0011_10.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:44:18.027663"
+    },
+    "https://court.aifc.kz/files/legals/332/file/pru.inv_v2_fr0011_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:44:35.091522"
+    },
+    "https://court.aifc.kz/files/legals/434/file/pru.inv_v3_fr0011_28.06.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:44:48.941217"
+    },
+    "https://court.aifc.kz/files/legals/650/file/pru.inv_v5_fr0011_01.07.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:45:00.586953"
+    },
+    "https://court.aifc.kz/files/legals/94/file/pru-int_v2_fr0012_22.01.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:45:18.440585"
+    },
+    "https://court.aifc.kz/files/legals/95/file/pru-int_v1_fr0012_10.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:45:27.159529"
+    },
+    "https://court.aifc.kz/files/legals/149/file/pins_v2_fr0030_13.12.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:45:42.941102"
+    },
+    "https://court.aifc.kz/files/legals/374/file/pins_v1_fr0030_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:46:01.355560"
+    },
+    "https://court.aifc.kz/files/legals/373/file/guidance-to-the-aifc-captive-insurance-regime_13.12.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:46:14.493718"
+    },
+    "https://court.aifc.kz/files/legals/130/file/ibb_v2_fr00014_11.05.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:46:26.957841"
+    },
+    "https://court.aifc.kz/files/legals/318/file/ibb_v1_fr0014_10.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:46:42.550792"
+    },
+    "https://court.aifc.kz/files/legals/131/file/ifr_v3_fr0013_05.05.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:46:54.011352"
+    },
+    "https://court.aifc.kz/files/legals/132/file/ifr_v1_fr0013_10.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:47:02.025261"
+    },
+    "https://court.aifc.kz/files/legals/133/file/ifr_v2_fr0013_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:47:12.944195"
+    },
+    "https://court.aifc.kz/files/legals/29/file/fintech_v3_afsa-f-pc-2019-0001_23.07.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:47:32.399625"
+    },
+    "https://court.aifc.kz/files/legals/134/file/fintech_v1_afsa-f-pc-2019-0001_14.02.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:47:49.126049"
+    },
+    "https://court.aifc.kz/files/legals/339/file/fintech_v2_afsa-f-pc-2019-0001_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:48:00.935797"
+    },
+    "https://court.aifc.kz/files/legals/51/file/aud_v1_fr0010_10.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:48:12.646045"
+    },
+    "https://court.aifc.kz/files/legals/52/file/dir_v2_gr0003_26.10.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:48:26.310681"
+    },
+    "https://court.aifc.kz/files/legals/135/file/dir_v1_gr0003_10.12.2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:48:41.893924"
+    },
+    "https://court.aifc.kz/files/legals/40/file/glo_v14_fr0017_01.01.2023-with-a13-1-12.10.2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:48:59.294190"
+    },
+    "https://court.aifc.kz/files/legals/141/file/glo_v1_fr0017_29.04.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:49:16.632226"
+    },
+    "https://court.aifc.kz/files/legals/142/file/glo_v2_fr0017_30.07.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:49:33.265633"
+    },
+    "https://court.aifc.kz/files/legals/143/file/glo_v3_fr0017_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:49:47.858457"
+    },
+    "https://court.aifc.kz/files/legals/144/file/glo_v4_fr0017_05.05.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:49:56.952861"
+    },
+    "https://court.aifc.kz/files/legals/145/file/glo_v5_fr0017_02.07.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:50:06.356907"
+    },
+    "https://court.aifc.kz/files/legals/146/file/glo_v6_fr0017_13.10.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:50:18.376493"
+    },
+    "https://court.aifc.kz/files/legals/246/file/glo_v7_fr0017_14.12.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:50:31.022281"
+    },
+    "https://court.aifc.kz/files/legals/333/file/glo_v8_fr0017_13.10.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:50:45.509219"
+    },
+    "https://court.aifc.kz/files/legals/336/file/glo_v9_fr0017_28.06.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:51:04.030022"
+    },
+    "https://court.aifc.kz/files/legals/429/file/glo_v10_fr0017_23.07.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:51:16.888354"
+    },
+    "https://court.aifc.kz/files/legals/470/file/glo_v11_fr0017_12.12.2021-final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:51:28.816924"
+    },
+    "https://court.aifc.kz/files/legals/471/file/glo_v12_fr0017_29.06.2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:51:44.987078"
+    },
+    "https://court.aifc.kz/files/legals/515/file/glo_v13_fr0017_01.07.2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:51:57.310289"
+    },
+    "https://court.aifc.kz/files/legals/521/file/glo_v14_fr0017_01.01.2023-with-a13-1-12.10.2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:52:09.567216"
+    },
+    "https://court.aifc.kz/files/legals/540/file/glo_v15_fr0017_01.07.2023-with-rar-additions-27-april-2023-and-cis-additions-16-april-2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:52:26.634912"
+    },
+    "https://court.aifc.kz/files/legals/559/file/glo_v16_fr0017_01.08.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:52:43.793720"
+    },
+    "https://court.aifc.kz/files/legals/583/file/glo_a16_01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:53:03.287474"
+    },
+    "https://court.aifc.kz/files/legals/600/file/glo_a16.2_01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:53:15.165091"
+    },
+    "https://court.aifc.kz/files/legals/610/file/glo_a16.3_01.01.2024-sto.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:53:33.083806"
+    },
+    "https://court.aifc.kz/files/legals/615/file/glo_v17_fr0017_01.01.2024-sto-esg_gk-3.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:53:49.662258"
+    },
+    "https://court.aifc.kz/files/legals/649/file/glo_v17_fr0017_01.07.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:54:03.453053"
+    },
+    "https://court.aifc.kz/files/legals/185/file/ctp_v3_39_.docx": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:54:24.599101"
+    },
+    "https://court.aifc.kz/files/legals/187/file/ctp_v1_39_15.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:54:34.526481"
+    },
+    "https://court.aifc.kz/files/legals/417/file3/aifc-rules-on-currency-regulation_rus.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:54:45.032321"
+    },
+    "https://court.aifc.kz/files/legals/417/file2/aifc-rules-on-currency-regulation_kaz.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:54:58.010348"
+    },
+    "https://court.aifc.kz/files/legals/417/file/aifc-rules-on-currency-regulation_eng_2-with-logo.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:55:33.875545"
+    },
+    "https://court.aifc.kz/files/legals/624/file3/rus-for-publication_20240222____.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:55:49.569739"
+    },
+    "https://court.aifc.kz/files/legals/624/file2/kaz-for-publication_20240220.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:56:06.176641"
+    },
+    "https://court.aifc.kz/files/legals/624/file/eng-for-publication_20240222__.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:56:24.254048"
+    },
+    "https://court.aifc.kz/files/legals/343/file/fse_v3_38_9.01.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:56:37.259357"
+    },
+    "https://court.aifc.kz/files/legals/147/file/fse_v1_38_15.12.17.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:56:53.912920"
+    },
+    "https://court.aifc.kz/files/legals/248/file/fse_v2_38_20.08.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:57:02.326200"
+    },
+    "https://court.aifc.kz/files/legals/31/file/pre-ipo_v2_fr0029_18.10.2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:57:15.717087"
+    },
+    "https://court.aifc.kz/files/legals/358/file/pre-ipo_v1_fr0029_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:57:34.563668"
+    },
+    "https://court.aifc.kz/files/legals/150/file/trr_v1_fr0031_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:57:54.363119"
+    },
+    "https://court.aifc.kz/files/legals/151/file/sb-rules_v1_afsa-l-pc-2019-0001_29.01.19.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:58:19.449243"
+    },
+    "https://court.aifc.kz/files/legals/34/file/co-op_v3_fr0042_13.10.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:58:30.477944"
+    },
+    "https://court.aifc.kz/files/legals/152/file/co-op_v1_fr0042_02.12.2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:58:48.887190"
+    },
+    "https://court.aifc.kz/files/legals/243/file/co-op_v2_fr0042_05.05.2019.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:59:07.985146"
+    },
+    "https://court.aifc.kz/files/legals/421/file/aifc-substantial-presence-rules.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:59:23.928867"
+    },
+    "https://court.aifc.kz/files/legals/556/file/aifc-recovery-and-resolution-rules-_v1_01.07.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:59:34.222786"
+    },
+    "https://court.aifc.kz/files/legals/575/file/aifc-rules-on-digital-asset-activities-daa-_stablecoins.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T10:59:54.578217"
+    },
+    "https://court.aifc.kz/files/legals/588/file/cob_a11.1_as-of-01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:00:07.676331"
+    },
+    "https://court.aifc.kz/files/legals/589/file/fees_a14.1_as-of-01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:00:22.038100"
+    },
+    "https://court.aifc.kz/files/legals/590/file/gen_a16.1_01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:00:34.229744"
+    },
+    "https://court.aifc.kz/files/legals/591/file/fsfr_a10.1_01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:00:49.034548"
+    },
+    "https://court.aifc.kz/files/legals/592/file/glo_a16.1_01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:01:06.960192"
+    },
+    "https://court.aifc.kz/files/legals/593/file/ami_a7_01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:01:16.945613"
+    },
+    "https://court.aifc.kz/files/legals/594/file/aml_a5_01.01.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:01:33.442418"
+    },
+    "https://court.aifc.kz/files/legals/613/file3/028-0-2708459ab28o-8-b-18-6-a.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:01:50.569359"
+    },
+    "https://court.aifc.kz/files/legals/613/file/rules-of-cooperation-between-datfs-dasps-and-second-tier-banks-of-kazakhstan.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:01:59.511089"
+    },
+    "https://court.aifc.kz/files/legals/68/file3/53-0.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:02:13.419593"
+    },
+    "https://court.aifc.kz/files/legals/68/file/3.-legislation-aifc-court-regulations-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:02:27.540410"
+    },
+    "https://court.aifc.kz/files/legals/69/file3/028-0-c40.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:02:37.070047"
+    },
+    "https://court.aifc.kz/files/legals/69/file/3.-legislation-aifc-court-rules-2018.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:02:51.408272"
+    },
+    "https://court.aifc.kz/files/legals/73/file3/18b-06-k9-53-0.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:03:08.366059"
+    },
+    "https://court.aifc.kz/files/legals/73/file/aifc-arbitration-regulations-2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:03:26.344000"
+    },
+    "https://court.aifc.kz/files/legals/75/file3/iac-rules-2022-ru.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:03:41.718023"
+    },
+    "https://court.aifc.kz/files/legals/75/file/iac-rules-no-cover.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:03:52.664588"
+    },
+    "https://court.aifc.kz/files/legals/18/file/joint-order-between-aifc-and-mof-on-aml.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:04:02.385683"
+    },
+    "https://court.aifc.kz/files/legals/325/file3/onappr-2.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:04:13.009892"
+    },
+    "https://court.aifc.kz/files/legals/325/file2/onappr-3.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:04:22.684952"
+    },
+    "https://court.aifc.kz/files/legals/325/file/onappr-4.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:04:33.256459"
+    },
+    "https://court.aifc.kz/files/legals/119/file3/028-0-0-3-2-3-0420-8o-8-2708459ab28o.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:04:45.643506"
+    },
+    "https://court.aifc.kz/files/legals/119/file2/29_12_2017-028-0-0-3-2-3-0420-8o-_-07.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:04:59.878281"
+    },
+    "https://court.aifc.kz/files/legals/119/file/tax-administration-rules-of-aifc-bodies-and-participants.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:05:16.359746"
+    },
+    "https://court.aifc.kz/files/legals/120/file3/028-0-0745-l-3-cg5b0-_2017.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:05:30.858991"
+    },
+    "https://court.aifc.kz/files/legals/120/file2/21.11.17-028-0-0745-l-3-cg5b0-_-5-b_d8-0-l-k9-a-3-0a-20-k9-20-80-b_-07-copy.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:05:45.819807"
+    },
+    "https://court.aifc.kz/files/legals/120/file/the-regulations-on-keeping-separate-accounting-by-the-participants-of-aifc-for-the-corporate-income-tax.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:05:58.387609"
+    },
+    "https://court.aifc.kz/files/legals/121/file3/5f80-l-5-65-85-1.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:06:08.126200"
+    },
+    "https://court.aifc.kz/files/legals/121/file2/no.1-09k-5-565-07.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:06:24.932089"
+    },
+    "https://court.aifc.kz/files/legals/121/file/special-provision-no.-1-eng.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:06:36.326333"
+    },
+    "https://court.aifc.kz/files/legals/122/file3/5f80-l-5-65-85-no.-2-ca-copy.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:06:52.703873"
+    },
+    "https://court.aifc.kz/files/legals/122/file2/no.-2-09k-5-565-07-copy.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:07:05.173761"
+    },
+    "https://court.aifc.kz/files/legals/122/file/special-provision-no.-2-eng-copy.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:07:20.359186"
+    },
+    "https://court.aifc.kz/files/legals/123/file3/5f80-l-5-65-85-3.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:07:32.248821"
+    },
+    "https://court.aifc.kz/files/legals/123/file2/no.-3-09k-5-565-07.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:07:47.480104"
+    },
+    "https://court.aifc.kz/files/legals/123/file/special-provision-no.-3-eng.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:08:03.520207"
+    },
+    "https://court.aifc.kz/files/legals/118/file3/07joa-5-85-0a0b5-l-84-c-b0-4-c-b0-2-ab0bl8-397-0-3-2-3-45-a0-5a-c1-8-8-070eab0.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:08:20.105410"
+    },
+    "https://court.aifc.kz/files/legals/118/file/clarification-regarding-the-application-of-subparagraph-4-of-paragraph-2-of-article-397-of-the-tax-code-of-the-republic-of-kazakhstan_bd_20190301.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:08:30.783493"
+    },
+    "https://court.aifc.kz/files/legals/517/file3/1-545-5-88-8b5-852-aci5ab2-5-8o-b-3-2-f5-k9-18-65-564c-0-4-3-d8-0-a-2-3-f5-b-0-ab0-0-pdf.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:08:44.956480"
+    },
+    "https://court.aifc.kz/files/legals/517/file2/07-1-545-5-88-8b5-852-aci5ab2-5-8o-b-3-2-f5-k9-18-65-564c-0-4-3-d8-0-a-2-3-f5-b-0-ab0-0.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:08:59.080692"
+    },
+    "https://court.aifc.kz/files/legals/517/file/joint-order-aifc-mne-and-mf.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:09:11.021724"
+    },
+    "https://court.aifc.kz/files/legals/124/file/aifc-rules-on-keeping-records-2018_updated.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:09:24.069272"
+    },
+    "https://court.aifc.kz/files/legals/125/file/the-terms-of-and-procedures-for-entry-into-the-republic-of-kazakhstan-and-leaving-the-republic-of-kazakhstan-for-foreign-nationals-and-stateless-persons-coming-to-kazakhstan-to-conduct-activities-in-aifc.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": false,
+      "is_new": true
+    },
+    "https://court.aifc.kz/files/legals/513/file3/rus-consolidated-as-of-june-2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:09:55.827893"
+    },
+    "https://court.aifc.kz/files/legals/513/file2/kaz-consolidated-as-of-june-2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:10:05.256005"
+    },
+    "https://court.aifc.kz/files/legals/513/file/joint-order-on-interim-procedure-consolidated-as-of-june-2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:10:19.145735"
+    },
+    "https://court.aifc.kz/files/legals/127/file/joint-order-between-aifc-and-mof-on-aml.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:10:33.883758"
+    },
+    "https://court.aifc.kz/files/legals/257/file/manual-for-preparation-of-returns-for-banking-business-firms-amended-26-aug-2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:10:52.340786"
+    },
+    "https://court.aifc.kz/files/legals/404/file/manual-for-preparation-of-returns-for-authorised-firms-carrying-out-banking-business.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:11:06.842700"
+    },
+    "https://court.aifc.kz/files/legals/478/file/manual-for-preparation-of-returns-for-banking-business-firms-amended.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:11:24.114157"
+    },
+    "https://court.aifc.kz/files/legals/258/file/manual-for-preparation-of-returns-for-investment-firms-amended.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:11:43.014584"
+    },
+    "https://court.aifc.kz/files/legals/405/file/manual-for-preparation-of-returns-for-authorised-investment-firms-incl.-amendments.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:11:56.302159"
+    },
+    "https://court.aifc.kz/files/legals/259/file/manual-for-preparation-of-returns-for-insurance-and-reinsurance-firms-amended.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:12:10.225402"
+    },
+    "https://court.aifc.kz/files/legals/406/file/manual-for-preparation-of-returns-for-authorised-re-insurance-firms.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:12:24.142608"
+    },
+    "https://court.aifc.kz/files/legals/382/file/afsa-annual-information-return-form.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:12:33.753857"
+    },
+    "https://court.aifc.kz/files/legals/383/file/self-assessment_of_-internal_qc_monitoring_program-completed-by-firm.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:12:51.143868"
+    },
+    "https://court.aifc.kz/files/legals/384/file/self-assessment_of_-internal_qc_system-completed-by-firm.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:13:03.151555"
+    },
+    "https://court.aifc.kz/files/legals/385/file/audit-client-base-sheet.xlsx": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:13:13.709412"
+    },
+    "https://court.aifc.kz/files/legals/403/file/manual-for-preparation-of-returns-for-insurance-intermediaries-and-managers.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:13:22.495282"
+    },
+    "https://court.aifc.kz/files/legals/359/file/consultation-paper-no-1.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:13:36.527897"
+    },
+    "https://court.aifc.kz/files/legals/360/file/consultation-paper-no-2.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:13:46.790063"
+    },
+    "https://court.aifc.kz/files/legals/361/file/consultation-paper-no-3.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:14:01.796436"
+    },
+    "https://court.aifc.kz/files/legals/362/file/consultation-paper-no-4.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:14:11.136142"
+    },
+    "https://court.aifc.kz/files/legals/363/file/consultation-paper-no-5.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:14:29.487627"
+    },
+    "https://court.aifc.kz/files/legals/364/file/consultation-paper-no-6.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:14:42.593971"
+    },
+    "https://court.aifc.kz/files/legals/365/file/consultation-paper-no-7.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:14:56.717252"
+    },
+    "https://court.aifc.kz/files/legals/366/file/consultation-paper-no-8.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:15:14.998487"
+    },
+    "https://court.aifc.kz/files/legals/371/file/consultation-paper-no-9.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:15:29.473745"
+    },
+    "https://court.aifc.kz/files/legals/392/file/consultation-paper-no-10.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:15:45.224994"
+    },
+    "https://court.aifc.kz/files/legals/426/file/consultation-paper-no.11_proposals-relating-to-aifc-employment-amendment-regulations-2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:15:58.137759"
+    },
+    "https://court.aifc.kz/files/legals/445/file/consultation-paper_aifc-legal-services-regulations-2022-and-amendments-to-aifc-rules.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:16:13.022327"
+    },
+    "https://court.aifc.kz/files/legals/449/file/consultation-paper-no.13_amendments-to-aifc-contract-legal-framework-2022.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:16:33.405340"
+    },
+    "https://court.aifc.kz/files/legals/626/file3/consultation-paper-no.15-sr-ppr-public-consultation-14-march.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:16:51.715460"
+    },
+    "https://court.aifc.kz/files/legals/626/file2/consultation-paper-no.15-sr-ppr-public-consultation-14-march.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:17:02.913529"
+    },
+    "https://court.aifc.kz/files/legals/626/file/consultation-paper-no.15-sr-ppr-public-consultation-14-march.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:17:17.125178"
+    },
+    "https://court.aifc.kz/files/legals/499/file/consultation-paper-no.14-proposed-aifc-general-legal-framework-amendment-regulations.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:17:26.153907"
+    },
+    "https://court.aifc.kz/files/legals/389/file/consultation-paper_umbrella-sandbox_20.01.2021.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:17:37.659634"
+    },
+    "https://court.aifc.kz/files/legals/370/file/cp_approach-on-the-application-of-the-aifc-regulatory-fees_20.11.20.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:17:51.756719"
+    },
+    "https://court.aifc.kz/files/legals/367/file/cp_2020_0007_aifc-reg.framework-for-cb.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:18:10.937196"
+    },
+    "https://court.aifc.kz/files/legals/348/file/cp_2020_0006_aifc-regulatory-framework-for-rep.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:18:21.383695"
+    },
+    "https://court.aifc.kz/files/legals/345/file/cp_2020_0005_aifc-pre-ipo-listing-rules.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:18:35.121181"
+    },
+    "https://court.aifc.kz/files/legals/329/file/consultation-paper-afsa-l-ce-2020-0001-on-special-rules.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:18:46.836373"
+    },
+    "https://court.aifc.kz/files/legals/324/file/consultation-paper_amendments-on-digital-assets.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:18:58.250849"
+    },
+    "https://court.aifc.kz/files/legals/319/file/consultation-paper-no-0003-on-aifc-markets-and-market-infrastructure-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:19:07.913805"
+    },
+    "https://court.aifc.kz/files/legals/323/file/consultation-paper-afsa-p-ce-2020-0002-on-waivers.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:19:16.946621"
+    },
+    "https://court.aifc.kz/files/legals/265/file/addressing-certain-limitations-related-to-founding-members-of-non-profit-incorporated-organisations.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:19:32.930129"
+    },
+    "https://court.aifc.kz/files/legals/316/file/consultation-paper_no-13-guidance-on-miscellaneous-fintech-lab-issues.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:19:53.222975"
+    },
+    "https://court.aifc.kz/files/legals/315/file/consultation-paper_no-12extension-of-the-list-of-regulated-and-market-activities.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:20:07.626295"
+    },
+    "https://court.aifc.kz/files/legals/286/file/consultation-paper-0011_260919.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:20:24.098553"
+    },
+    "https://court.aifc.kz/files/legals/285/file/consultation-paper-0010.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:20:35.645669"
+    },
+    "https://court.aifc.kz/files/legals/284/file/consultation-paper-0009.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:20:49.368581"
+    },
+    "https://court.aifc.kz/files/legals/289/file/consultation-paper-afsa-p-ce-2019-0008.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:21:05.895229"
+    },
+    "https://court.aifc.kz/files/legals/314/file/consultation-paper_afsa-p-ce-2019-0004.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:21:21.422838"
+    },
+    "https://court.aifc.kz/files/legals/312/file/consultation-paper-28_crowdfunding-framework_amendments-to-mar.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:21:37.142603"
+    },
+    "https://court.aifc.kz/files/legals/309/file/consultation-paper-no-27-_amendments-to-mar.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:21:52.031161"
+    },
+    "https://court.aifc.kz/files/legals/288/file/consultation-paper-26-enhancing-fund-regime-framework-v2.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:22:00.596484"
+    },
+    "https://court.aifc.kz/files/legals/308/file/consultation-paper-no-25_trust-legislative-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:22:10.148165"
+    },
+    "https://court.aifc.kz/files/legals/287/file/consultation-paper-23-listed-funds-pe-vc-reit-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:22:23.177397"
+    },
+    "https://court.aifc.kz/files/legals/307/file/consultation-paper-no-22_amendments-to-co-op-rules.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:22:33.130832"
+    },
+    "https://court.aifc.kz/files/legals/313/file/consultation-paper_afsa-p-ce-2019-0002_no24-revised.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:22:51.197376"
+    },
+    "https://court.aifc.kz/files/legals/306/file/consultation-paper-no-21_crs-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:23:01.946865"
+    },
+    "https://court.aifc.kz/files/legals/305/file/consultation-paper-28_crowdfunding-framework_amendments-to-mar.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:23:15.392364"
+    },
+    "https://court.aifc.kz/files/legals/304/file/consultation-paper-no-19-_amendments-to-mar.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:23:30.273233"
+    },
+    "https://court.aifc.kz/files/legals/303/file/consultation-paper-no-18_fintech-rules.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:23:38.994100"
+    },
+    "https://court.aifc.kz/files/legals/302/file/consultation-paper-no-17.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:23:55.828132"
+    },
+    "https://court.aifc.kz/files/legals/301/file/consultation-paper-no16_-re-takaful-legislation-framewrok-2.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:24:08.401325"
+    },
+    "https://court.aifc.kz/files/legals/300/file/consultation-paper-no-15-_-re-insurance-legislation-2-pdf.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:24:21.669801"
+    },
+    "https://court.aifc.kz/files/legals/299/file/consultation-paper-no-14_legal-entities-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:24:38.874909"
+    },
+    "https://court.aifc.kz/files/legals/298/file/consultation-paper-no13_-re-takaful-legislation.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:24:52.072742"
+    },
+    "https://court.aifc.kz/files/legals/297/file/consultation-paper-no-12_legal-entities-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:25:09.100187"
+    },
+    "https://court.aifc.kz/files/legals/296/file/consultation-paper-no-11-_-re-insurance-legislation.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:25:24.422577"
+    },
+    "https://court.aifc.kz/files/legals/295/file/consultation-paper-no-10_amendments-to-islamic-finance-rules.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:25:44.510824"
+    },
+    "https://court.aifc.kz/files/legals/294/file/consultation-paper-no-9_pre-ipo.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:26:00.531240"
+    },
+    "https://court.aifc.kz/files/legals/293/file/consultation-paper-no-8_i-link-model.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:26:15.885539"
+    },
+    "https://court.aifc.kz/files/legals/283/file/consultation-paper-7.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:26:33.506627"
+    },
+    "https://court.aifc.kz/files/legals/282/file/consultation-paper-6.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:26:48.081710"
+    },
+    "https://court.aifc.kz/files/legals/292/file/consultation-paper-no-5_banking.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:27:06.875689"
+    },
+    "https://court.aifc.kz/files/legals/311/file/consultation-paper-no4.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:27:16.175679"
+    },
+    "https://court.aifc.kz/files/legals/310/file/consultation-paper-no3_aml_may-10.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:27:27.605649"
+    },
+    "https://court.aifc.kz/files/legals/291/file/consultation-paper-no-2_2018_glossary.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:27:38.822557"
+    },
+    "https://court.aifc.kz/files/legals/290/file/consultation-paper-no-1.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:27:52.971646"
+    },
+    "https://court.aifc.kz/files/legals/281/file/annexes-to-consultation-paper-no-12.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:28:05.682398"
+    },
+    "https://court.aifc.kz/files/legals/280/file/annex-6-amendments-to-aifc-glo.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:28:20.951397"
+    },
+    "https://court.aifc.kz/files/legals/279/file/annex-5-amendments-to-aifc-mar.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:28:38.830042"
+    },
+    "https://court.aifc.kz/files/legals/278/file/annex-4-amendments-to-aifc-cob.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:28:57.911027"
+    },
+    "https://court.aifc.kz/files/legals/277/file/annex-3-amendments-to-aifc-ami.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:29:07.809095"
+    },
+    "https://court.aifc.kz/files/legals/270/file/annex-2_aifc-gen.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:29:23.308460"
+    },
+    "https://court.aifc.kz/files/legals/275/file/annex-1-amendments-to-aifc-fsfr.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:29:36.746119"
+    },
+    "https://court.aifc.kz/files/legals/274/file/annex-3c_aifc-gen-rules_draft-amendments.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:30:03.742897"
+    },
+    "https://court.aifc.kz/files/legals/273/file/annex-3b_aifc-cob-rules_draft-amendments.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:30:26.252205"
+    },
+    "https://court.aifc.kz/files/legals/271/file/annex-2_cag_draft.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:30:52.943870"
+    },
+    "https://court.aifc.kz/files/legals/269/file/annex-2.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:31:12.194727"
+    },
+    "https://court.aifc.kz/files/legals/272/file/annex-3_aifc_glo.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:31:37.364501"
+    },
+    "https://court.aifc.kz/files/legals/276/file/annex-2-amendments-to-aifc-gen.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:31:53.534415"
+    },
+    "https://court.aifc.kz/files/legals/268/file/annex-1_aifc-fintech-rules.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:32:05.544098"
+    },
+    "https://court.aifc.kz/files/legals/267/file/annex-1_aifc-bbr-rules_draft.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:32:18.989892"
+    },
+    "https://court.aifc.kz/files/legals/266/file/annex-1.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:32:30.104282"
+    },
+    "https://court.aifc.kz/files/legals/411/file/dbs-consultation-paper_final-pdf.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:32:43.053298"
+    },
+    "https://court.aifc.kz/files/legals/412/file/consultation-paper_investment-limits-on-digital-assets-27.07.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:32:53.792717"
+    },
+    "https://court.aifc.kz/files/legals/413/file/afsa_cp_substantial-presence-rules.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:33:10.835430"
+    },
+    "https://court.aifc.kz/files/legals/414/file/afsa-cp-amendments-to-the-aifc-bankig-business-framework-pdf.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:33:25.127920"
+    },
+    "https://court.aifc.kz/files/legals/415/file/afsa_cp_aml-amendments-extended-pdf.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:33:38.795333"
+    },
+    "https://court.aifc.kz/files/legals/418/file/cp-final-merged.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:33:48.926295"
+    },
+    "https://court.aifc.kz/files/legals/446/file/20220329_consultation-paper-fees-final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:34:02.740667"
+    },
+    "https://court.aifc.kz/files/legals/450/file/cp-on-proposed-regulatory-guidance-on-fitness-and-propriety.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:34:20.536526"
+    },
+    "https://court.aifc.kz/files/legals/456/file/20220511_consultation-paper-mar-glo-rec-_final-merged.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:34:31.100899"
+    },
+    "https://court.aifc.kz/files/legals/461/file/afsa_cp_aml-consequential-amendments.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:34:47.262868"
+    },
+    "https://court.aifc.kz/files/legals/474/file/final-consultation-paper-bbr_final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:34:57.407029"
+    },
+    "https://court.aifc.kz/files/legals/476/file/afsa_cp_aml-consequential-amendments_bo-definition_.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:35:09.735419"
+    },
+    "https://court.aifc.kz/files/legals/479/file/cp_enhancing-aifc-legal-entities-framework_june-2021_.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:35:19.353489"
+    },
+    "https://court.aifc.kz/files/legals/489/file/consultation-paper-afsa-p-ce-2022-0005.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:35:33.422216"
+    },
+    "https://court.aifc.kz/files/legals/490/file/20221020_consultation-paper-asset-management.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:35:47.868143"
+    },
+    "https://court.aifc.kz/files/legals/494/file/cp-guidance.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:36:02.287581"
+    },
+    "https://court.aifc.kz/files/legals/496/file/cp_guidance-on-cis-establishment_.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:36:19.134556"
+    },
+    "https://court.aifc.kz/files/legals/497/file/consultation-paper-recovery-and-resolution.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:36:31.368452"
+    },
+    "https://court.aifc.kz/files/legals/498/file/consultation-paper-recovery-and-resolution-final-202207212-clean-for-pc-combined.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:36:47.514387"
+    },
+    "https://court.aifc.kz/files/legals/503/file/20221226_consultation-paper_asset-management-amendments.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:37:05.535479"
+    },
+    "https://court.aifc.kz/files/legals/504/file/cp_2020_0010_aifc-regulatory-framework-for-captive-business.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:37:16.805722"
+    },
+    "https://court.aifc.kz/files/legals/505/file/cp_proposed-enhancement-of-aifc-market-institutions-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:37:31.831498"
+    },
+    "https://court.aifc.kz/files/legals/506/file/consultation-paper_afsa-p-ce-2019-0004.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:37:46.086996"
+    },
+    "https://court.aifc.kz/files/legals/251/file/consultation-paper_amendments-on-digital-assets.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:37:58.605452"
+    },
+    "https://court.aifc.kz/files/legals/646/file/afsa-p-ce-2024-0005_aifc-treasury-framework-to-publish.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:38:13.288169"
+    },
+    "https://court.aifc.kz/files/legals/651/file/20240701_consultation-paper-on-investment-token-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:38:33.209258"
+    },
+    "https://court.aifc.kz/files/legals/369/file/cp_2020_0010_aifc-regulatory-framework-for-captive-business.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:38:49.192971"
+    },
+    "https://court.aifc.kz/files/legals/368/file/cp_proposed-enhancement-of-aifc-market-institutions-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:39:00.761101"
+    },
+    "https://court.aifc.kz/files/legals/501/file/consultation-paper-on-policy-on-the-enhancement-of-the-aifc-digital-asset-trading-facility-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:39:14.728415"
+    },
+    "https://court.aifc.kz/files/legals/523/file/20230320_cp-commodities-exchange.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:39:30.937211"
+    },
+    "https://court.aifc.kz/files/legals/546/file/draft_perimeter-guidance_as-of-24-may-23-for-legco_for-pc_final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:39:40.058411"
+    },
+    "https://court.aifc.kz/files/legals/547/file/consultation-paper_aifc_rules-on-currency-regulations.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:40:01.759663"
+    },
+    "https://court.aifc.kz/files/legals/548/file/consultation-paper-on-proposed-enhancing-the-financial-services-tax-exemption-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:40:16.637086"
+    },
+    "https://court.aifc.kz/files/legals/549/file/consultation-paper-on-proposed-amendments-to-the-aifc-financial-services-framework-regulations.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:40:31.619763"
+    },
+    "https://court.aifc.kz/files/legals/550/file/consultation-paper-on-proposed-aifc-digital-assets-trading-facility-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:40:48.185947"
+    },
+    "https://court.aifc.kz/files/legals/551/file/consultation-paper-on-aifc-digital-asset-service-providers-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:41:06.116232"
+    },
+    "https://court.aifc.kz/files/legals/563/file/consultation-paper-fees_100823.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:41:19.591706"
+    },
+    "https://court.aifc.kz/files/legals/564/file/20230811_consultation-paper-on-sto-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:41:30.718359"
+    },
+    "https://court.aifc.kz/files/legals/565/file/afsa-p-ce-2023-0005-stablecoin-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:41:49.890694"
+    },
+    "https://court.aifc.kz/files/legals/572/file/consultation-paper-rules-on-reporting-for-cryptoexchanges-05.10.2023-final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:41:59.270770"
+    },
+    "https://court.aifc.kz/files/legals/573/file/consultation-paper-rules-of-cooperation-05.10.2023-final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:42:17.481417"
+    },
+    "https://court.aifc.kz/files/legals/579/file/consultation-paper-fees_021123-combined.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:42:34.338555"
+    },
+    "https://court.aifc.kz/files/legals/580/file/20231103_consultation-paper-esg-amendments_gk_ib.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:42:51.219132"
+    },
+    "https://court.aifc.kz/files/legals/627/file/20240326_consultation-paper-on-asset-management-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:43:05.583651"
+    },
+    "https://court.aifc.kz/files/legals/628/file/afsa-p-ce-2024-0001_family-offices-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:43:17.453922"
+    },
+    "https://court.aifc.kz/files/legals/629/file/consultation-paper-on-proposed-aifc-tokenised-commodities-framework.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:43:28.400594"
+    },
+    "https://court.aifc.kz/files/legals/633/file/consultation-paper-on-aifc-vsr-afsa-_final-for-publication.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:43:42.997126"
+    },
+    "https://court.aifc.kz/files/legals/635/file/consultation-paper_derivatives_for-publishing_17.04.2024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:43:53.893165"
+    },
+    "https://court.aifc.kz/files/legals/254/file/afsa-policy-and-legislation-development-plan-for-2020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:44:09.988124"
+    },
+    "https://court.aifc.kz/files/legals/407/file3/cp_enhancing-aifc-legal-entities-framework_june-2021.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:44:27.229354"
+    },
+    "https://court.aifc.kz/files/legals/407/file2/cp_enhancing-aifc-legal-entities-framework_june-2021.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:44:42.438577"
+    },
+    "https://court.aifc.kz/files/legals/407/file/cp_enhancing-aifc-legal-entities-framework_june-2021_.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:44:54.957247"
+    },
+    "https://court.aifc.kz/files/legals/425/file/supervisory-policy-statement-on-afsas-approach-to-branch-supervision.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:45:09.886335"
+    },
+    "https://court.aifc.kz/files/legals/522/file/policy-statement-on-the-afsas-approach-to-banks-and-start-up-banks.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:45:22.977538"
+    },
+    "https://court.aifc.kz/files/legals/390/file/notice-afsa-q-nb-2021-0004-pdf.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:45:40.896515"
+    },
+    "https://court.aifc.kz/files/legals/388/file/notice-afsa-q-nb-2021-0003-pdf.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:45:58.412482"
+    },
+    "https://court.aifc.kz/files/legals/387/file/notice-afsa-n-nb-2021-0002-dated-17.02.2021.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:46:12.600756"
+    },
+    "https://court.aifc.kz/files/legals/381/file/notice-afsa-q-nb-2021-0001.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:46:25.835046"
+    },
+    "https://court.aifc.kz/files/legals/379/file/notice-afsa-n-nb-2021-0001.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:46:42.733044"
+    },
+    "https://court.aifc.kz/files/legals/356/file/afsa-notice-afsa-q-oa-2020-0031-on-modification-for-for-takaful-operators.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:46:58.248650"
+    },
+    "https://court.aifc.kz/files/legals/355/file/afsa-notice-afsa-q-oa-2020-0030-on-waiver-and-modification-for-certain-types-of-investment-firms.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:47:09.223032"
+    },
+    "https://court.aifc.kz/files/legals/354/file/afsa-notice-afsa-q-oa-2020-0029-on-modification-for-banks-and-credit-providers.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:47:20.713711"
+    },
+    "https://court.aifc.kz/files/legals/353/file/afsa-notice-afsa-q-oa-2020-0028-on-modification-for-islamic-banks-and-islamic-financing-companies.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:47:32.444427"
+    },
+    "https://court.aifc.kz/files/legals/352/file/afsa-notice-afsa-q-oa-2020-0027-on-modification-for-authorised-firms-providing-trust-services.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:47:44.316626"
+    },
+    "https://court.aifc.kz/files/legals/349/file/afsa-notice-afsa-q-oa-2020-0026-on-modification.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:47:52.863422"
+    },
+    "https://court.aifc.kz/files/legals/351/file/afsa-notice-afsa-q-oa-2020-0025-on-modification-for-insurance-intermediaries-and-insurance-managers.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:48:09.079318"
+    },
+    "https://court.aifc.kz/files/legals/350/file/afsa-notice-afsa-q-oa-2020-0024-on-modication-for-insurers.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:48:20.930370"
+    },
+    "https://court.aifc.kz/files/legals/344/file/notice-afsa-n-nb-2020-0003.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:48:35.141689"
+    },
+    "https://court.aifc.kz/files/legals/342/file/notice-afsa-n-nb-2020-0002.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:48:48.066297"
+    },
+    "https://court.aifc.kz/files/legals/331/file/notice-afsa-t-oa-2020-0021.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:49:03.278875"
+    },
+    "https://court.aifc.kz/files/legals/330/file/notice-afsa-t-nb-2020-0004.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:49:13.775931"
+    },
+    "https://court.aifc.kz/files/legals/328/file/notice-afsa-t-oa-2020-0020.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:49:25.927186"
+    },
+    "https://court.aifc.kz/files/legals/322/file/notice-afsa-t-nb-2020-002.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:49:39.963038"
+    },
+    "https://court.aifc.kz/files/legals/334/file/notice-afsa-g-nb-2020-0001.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:49:51.410215"
+    },
+    "https://court.aifc.kz/files/legals/262/file/afsa-notice-on-the-provision-of-ancillary-services-and-financial-services-within-the-same-legal-entity.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:50:04.642291"
+    },
+    "https://court.aifc.kz/files/legals/255/file/170220_afsa-notice_0010_about-rems_bz.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:50:17.214086"
+    },
+    "https://court.aifc.kz/files/legals/231/file/afsa-notice_0009_a2_on-the-equivalent-regulated-exchanges-for-listed-funds.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:50:37.630834"
+    },
+    "https://court.aifc.kz/files/legals/232/file/afsa-notice_0009_on-the-equivalent-regulated-exchanges-for-listed-funds.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:50:45.078307"
+    },
+    "https://court.aifc.kz/files/legals/230/file/afsa-notice_0008_waivers-and-modifications.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:51:05.665471"
+    },
+    "https://court.aifc.kz/files/legals/229/file/afsa-notice_0007_on-working-capital-statement.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:51:21.329251"
+    },
+    "https://court.aifc.kz/files/legals/228/file/afsa-notice_0006_on-the-exemption-of-the-aifc-participants-from-certain-fines.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:51:33.266420"
+    },
+    "https://court.aifc.kz/files/legals/226/file/afsa-notice_0005_on-legal-status-of-legal-entities.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:51:44.733201"
+    },
+    "https://court.aifc.kz/files/legals/223/file/afsa-notice_0004_on-exempt-securities_a5.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:51:55.981545"
+    },
+    "https://court.aifc.kz/files/legals/224/file/afsa-notice_0004_on-exempt-securities.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:52:12.669456"
+    },
+    "https://court.aifc.kz/files/legals/225/file/afsa-notice_0004_on-exempt-securities-amendments.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:52:24.315296"
+    },
+    "https://court.aifc.kz/files/legals/256/file/afsa-notice_0004_on-exempt-securities_a2.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:52:37.888772"
+    },
+    "https://court.aifc.kz/files/legals/595/file/afsa-notice-afsa-t-nb-2023-0002-on-granting-waiver-to-skybridge-invest-jsc.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:52:53.413462"
+    },
+    "https://court.aifc.kz/files/legals/222/file/afsa-notice_0003_on-conditions-for-admission-of-securities-to-trading.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:53:08.776618"
+    },
+    "https://court.aifc.kz/files/legals/233/file/afsa-notice_0004_on-exempt-securities-with-amendments.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:53:18.162105"
+    },
+    "https://court.aifc.kz/files/legals/623/file/afsa-notice-afsa-o-ec-2024-0109-on-striking-venture-rocket-eurasia-ltd.-off-the-register.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:53:26.500877"
+    },
+    "https://court.aifc.kz/files/legals/395/file/afsa-notice-afsa-a-nb-2021-0003-on-class-modification.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:53:42.314739"
+    },
+    "https://court.aifc.kz/files/legals/396/file/afsa-notice-afsa-q-nb-2021-0005-on-granting-modifications-to-otan-private-bank-limited.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:53:59.791456"
+    },
+    "https://court.aifc.kz/files/legals/394/file/afsa-notice-afsa-t-nb-2021-0002-on-granting-modification-to-progress-connect-ltd.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:54:10.492922"
+    },
+    "https://court.aifc.kz/files/legals/401/file/afsa-notice-afsa-n-nb-2021-0003-on-class-modification.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:54:25.238124"
+    },
+    "https://court.aifc.kz/files/legals/402/file/afsa-notice-afsa-q-nb-2021-0006-on-approval-of-assets-eligible-to-be-level-1-hqla.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:54:36.005235"
+    },
+    "https://court.aifc.kz/files/legals/408/file/afsa-notice-afsa-o-nb-2021-0001-pdf.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:54:53.373038"
+    },
+    "https://court.aifc.kz/files/legals/416/file/afsa-notice-afsa-n-nb-2021-0004-on-equivalent-regulated-exchanges.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:55:05.814120"
+    },
+    "https://court.aifc.kz/files/legals/447/file/afsa-notice-afsa-q-ec-2022-0016-on-no-action-letter-kerc.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:55:20.018527"
+    },
+    "https://court.aifc.kz/files/legals/451/file/afsa-notice-afsa-n-nb-2022-0001-on-equivalent-regulated-exchanges.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:55:32.696250"
+    },
+    "https://court.aifc.kz/files/legals/457/file/afsa-notice-afsa-q-nb-2022-0001-on-no-action-letter-to-lareco.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:55:43.044272"
+    },
+    "https://court.aifc.kz/files/legals/458/file/afsa-notice-afsa-t-nb-2022-0059-on-granting-waiver-to-skybridge-invest-jsc-doing-business-in-the-aifc.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:55:59.035601"
+    },
+    "https://court.aifc.kz/files/legals/459/file/afsa-notice-afsa-n-nb-2022-0002-on-class-modification.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:56:17.663488"
+    },
+    "https://court.aifc.kz/files/legals/475/file/afsa-notice-fsa-q-nb-2022-0003-on-modification-to-otan-private-bank-ltd.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:56:31.578969"
+    },
+    "https://court.aifc.kz/files/legals/486/file/afsa-notice-afsa-q-nb-2022-0004-on-suspension-of-the-licence-of-gb-insurance-ltd.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:56:44.365565"
+    },
+    "https://court.aifc.kz/files/legals/487/file/afsa-notice-afsa-t-nb-2022-0061-on-no-action-letter-notice-fonte-capital-ltd.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:56:58.665754"
+    },
+    "https://court.aifc.kz/files/legals/488/file/afsa-notice-afsa-n-nb-2022-0004-on-equivalent-regulated-exchanges.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:57:10.709819"
+    },
+    "https://court.aifc.kz/files/legals/491/file/afsa-notice-no.-afsa-q-nb-2022-0005-on-licence-suspension-of-gb-finace-ltd.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:57:24.075249"
+    },
+    "https://court.aifc.kz/files/legals/493/file/afsa-notice-afsa-n-nb-2022-0006-on-class-modification-in-respect-of-persons-allowed-to-use-the-service-of-authorised-crowdfunding-platforms.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:57:40.814102"
+    },
+    "https://court.aifc.kz/files/legals/524/file/modification-notice_ikapitlaist-ltd.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:57:55.169441"
+    },
+    "https://court.aifc.kz/files/legals/552/file/afsa-notice-afsa-o-ec-2023-0603-on-suspension-of-the-activity-of-the-representative-office-of-hitbeat-music-inc.-in-the-aifc.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:58:12.682260"
+    },
+    "https://court.aifc.kz/files/legals/567/file/afsa-notice-for-website-versor.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:58:20.837826"
+    },
+    "https://court.aifc.kz/files/legals/568/file/afsa-notice-on-compulsury-withdrawal-of-asp-licences.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:58:34.852072"
+    },
+    "https://court.aifc.kz/files/legals/569/file/notice-on-modification-of-the-aifc-fees-rules_tabadul-initiative.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:58:44.896977"
+    },
+    "https://court.aifc.kz/files/legals/570/file/afsa-notice-no.-afsa-o-ec-2023-0915-on-scam-alert.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:59:01.544845"
+    },
+    "https://court.aifc.kz/files/legals/574/file/afsa-notice-afsa-q-nb-2023-0004-on-suspension-of-the-licence-of-kazakhstan-islamic-finance-company-ltd.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:59:13.303000"
+    },
+    "https://court.aifc.kz/files/legals/576/file/afsa-notice-ai.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:59:33.533519"
+    },
+    "https://court.aifc.kz/files/legals/578/file/afsa-notice-hbm.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T11:59:46.524077"
+    },
+    "https://court.aifc.kz/files/legals/581/file/afsa-notice-annex-to-order-on-ere.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:00:02.616520"
+    },
+    "https://court.aifc.kz/files/legals/582/file/scam-alert-notice-08.11.2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:00:16.844365"
+    },
+    "https://court.aifc.kz/files/legals/598/file/afsa-notice-grc-eurasia-ltd.-1.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:00:29.637236"
+    },
+    "https://court.aifc.kz/files/legals/599/file/afsa-notice-afsa-q-nb-2023-0005-on-suspension-of-the-licence-of-al-saqr-islamic-bank-ltd.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:00:43.821909"
+    },
+    "https://court.aifc.kz/files/legals/603/file/annex-1-to-order_brillink-bank_bcr_modification_pru.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:00:54.296691"
+    },
+    "https://court.aifc.kz/files/legals/604/file/annex-to-order_most_cap-and-liqa-waiver_pru-lad.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:01:07.316466"
+    },
+    "https://court.aifc.kz/files/legals/605/file/annex-2-green-list-12.12.2023-updated.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:01:17.661100"
+    },
+    "https://court.aifc.kz/files/legals/612/file/afsa-notice-regulation-of-crowdfunding-platform-operations.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:01:26.835561"
+    },
+    "https://court.aifc.kz/files/legals/625/file/afsa-notice-on-digital-asset-products.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:01:36.553743"
+    },
+    "https://court.aifc.kz/files/legals/631/file/notice-on-standard-waiver-for-aix-csd.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:01:52.259577"
+    },
+    "https://court.aifc.kz/files/legals/632/file/annex-1-to-order_brillink-bank.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:02:08.158730"
+    },
+    "https://court.aifc.kz/files/legals/634/file/annex-1-afsa-notice-on-extension-of-ftl-licenses_final.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:02:26.436570"
+    },
+    "https://court.aifc.kz/files/legals/636/file/afsa-web-site-notice-groove.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:02:42.173498"
+    },
+    "https://court.aifc.kz/files/legals/637/file/annex-1-to-the-order_final_.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:02:56.220611"
+    },
+    "https://court.aifc.kz/files/legals/638/file/annex-1-to-the-order_ffg_waiver-6.2.3_lad_v2.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:03:11.457780"
+    },
+    "https://court.aifc.kz/files/legals/641/file/annex-3_afsa-notice-on-licence-suspension-of-horizon-capital-ltd.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:03:24.747155"
+    },
+    "https://court.aifc.kz/files/legals/642/file/modification-notice.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:03:42.443795"
+    },
+    "https://court.aifc.kz/files/legals/643/file/notice_distribution-channel.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:03:56.804276"
+    },
+    "https://court.aifc.kz/files/legals/644/file/notice-no.-afsa-a-nb-2024-0011-on-recognised-jurisdictions-for-ffms.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:04:16.666580"
+    },
+    "https://court.aifc.kz/files/legals/645/file/afsa-notice-on-strike-off.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:04:37.009188"
+    },
+    "https://court.aifc.kz/files/legals/647/file/annex-2-green-list-27.06.2024-updated.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:04:45.618862"
+    },
+    "https://court.aifc.kz/files/legals/542/file/updated_guidance-for-fund-management-activity-and-funds-in-the-aifc.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:04:58.738471"
+    },
+    "https://court.aifc.kz/files/legals/545/file/guidance-on-competence-assessment.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:05:11.568727"
+    },
+    "https://court.aifc.kz/files/legals/571/file/perimeter-guidance.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:05:21.525686"
+    },
+    "https://court.aifc.kz/files/legals/577/file3/guidance-on-spr-rus.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:05:37.140359"
+    },
+    "https://court.aifc.kz/files/legals/577/file2/guidance-on-spr-kaz.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:05:49.498601"
+    },
+    "https://court.aifc.kz/files/legals/577/file/spr-guidance-combined.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:06:01.993914"
+    },
+    "https://court.aifc.kz/files/legals/596/file/guidance-for-aifc-banks-conducting-settlement-for-digital-asset-trading-facility-operators-and-digital-asset-service-providers.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:06:14.016835"
+    },
+    "https://court.aifc.kz/files/legals/597/file/aifc-amlcft-practical-guidance_03-11-2023.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:06:29.320558"
+    },
+    "https://court.aifc.kz/files/legals/630/file/clean_otc-guidance_ftd_21022024.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:06:45.936895"
+    },
+    "https://court.aifc.kz/files/legals/543/file/template-of-offering-materials-for-exempt-fund.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:06:58.780405"
+    },
+    "https://court.aifc.kz/files/legals/544/file/template-of-offering-materials-for-non-exempt-fund.pdf": {
+      "first_seen": "2025-05-31T09:45:10.213971",
+      "last_seen": "2025-05-31T09:45:10.213971",
+      "downloaded": true,
+      "is_new": false,
+      "last_downloaded": "2025-05-31T12:07:05.837397"
+    }
+  },
+  "last_full_scan": "2025-05-31T09:45:10.213971",
+  "initial_scan_completed": false,
+  "scan_start_date": "2025-05-31T00:30:02.897827"
+}

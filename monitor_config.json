@@ -1,0 +1,33 @@
+{
+    "urls": [
+        "https://court.aifc.kz/en/judgments",
+        "https://court.aifc.kz/en/legislation"
+    ],
+    "download_dir": "aifc_documents",
+    "check_interval_minutes": 180,
+    "file_extensions": [
+        ".pdf",
+        ".doc",
+        ".docx",
+        ".xls",
+        ".xlsx",
+        ".txt",
+        ".zip",
+        ".rar"
+    ],
+    "max_depth": 3,
+    "timeout": 30,
+    "human_behavior": {
+        "browsing_probability": 0.7,
+        "min_session_time": 120,
+        "max_session_time": 600,
+        "pages_per_session": [
+            3,
+            8
+        ],
+        "break_between_sessions": [
+            1800,
+            7200
+        ]
+    }
+}

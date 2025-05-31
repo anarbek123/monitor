@@ -1,0 +1,7 @@
+{
+  "browser_enabled": false,
+  "urls": [
+    "https://court.aifc.kz/en/judgments",
+    "https://court.aifc.kz/en/legislation"
+  ]
+}
